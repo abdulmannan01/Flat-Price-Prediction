@@ -2,7 +2,7 @@
 
 This repository uses Machine learning algorithms to predict the price of a flat or an apartment on being given the specifications as the input to the model.
 
-# Requirements
+## Requirements
 1. Pandas
 2. NumPy
 3. Warnings
