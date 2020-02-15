@@ -5,10 +5,10 @@ This repository uses Machine learning algorithms to predict the price of a flat 
 ## Requirements
 1. Pandas
 2. NumPy
-3. Warnings
+3. Joblib
 4. XGBoost
 5. SciPy
 6. Sklearn
 7. Collections
-8. Pickle
-9. Joblib
+8. Pickle 
+
